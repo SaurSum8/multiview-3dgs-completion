@@ -10,7 +10,7 @@
 - [ ] etc.
 
 ## More Examples (Fine tuned only!)
-Some images appear slightly blurry as video generation model was run at a low resolution. Upscaling techniques/better hardware can substantially improve quality.
+Some images appear slightly blurry (or with some artifacts) as the video generation model was run at a low resolution with older hardware. Upscaling techniques/better hardware can substantially improve quality.
 
 Before:
 
